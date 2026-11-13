@@ -32,12 +32,10 @@ I don't just rely on AI to write code. I use it as a development partner while m
 - Better software architecture and development workflows.
 - Improving the way AI and traditional software engineering work together.
 
-### 📌 My Development Philosophy
+[### 📌 My Development Philosophy
 
 I believe being a good developer isn't just about writing code. It's about understanding problems, choosing the right solutions, knowing how systems work together, and taking responsibility for the software you build.
 
 AI makes development faster, but engineering judgment makes the results reliable.
 
----
-
-Thanks for stopping by! Feel free to explore my repositories and projects.
+---](url)
